@@ -1,0 +1,6 @@
+override.tf
+*.tfstate
+*.tfstate.*
+**/.terraform/*
+crash.log
+override.tf
